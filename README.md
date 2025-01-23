@@ -57,5 +57,3 @@ Le site est structuré en cinq sections principales :
 Ce projet a été conçu et développé par Djibril Ndiaye dans le cadre du cours INF3190 – Introduction à la programmation web.
 
 ---
-
-https://github.com/djibril62/Site-web-statique/blob/main/Démo%203.mov
