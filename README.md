@@ -5,6 +5,8 @@
 
 Ce projet est un site web statique conçu pour promouvoir le tourisme au Sénégal. Il met en avant les différentes attractions touristiques, la richesse culturelle, les espaces naturels, et la diversité des activités disponibles dans le pays.
 
+Voici une vidéo : https://youtu.be/E0XBFfsK1Vg
+
 ## Contenu du Site
 
 Le site est structuré en cinq sections principales :
